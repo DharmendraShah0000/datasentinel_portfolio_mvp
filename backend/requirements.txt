@@ -1,0 +1,2 @@
+fastapi==0.115.12\nuvicorn[standard]==0.34.0\npython-multipart==0.0.20\nSQLAlchemy==2.0.38\npydantic==2.10.6\npandas==2.2.3\nnumpy==2.2.2\nscikit-learn==1.6.1\npytest==8.3.4\nhttpx==0.28.1\n
+psycopg[binary]==3.2.4

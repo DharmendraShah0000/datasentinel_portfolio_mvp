@@ -1,0 +1,2 @@
+# Security Policy
+This MVP is intended for local development and portfolio demonstration. Do not upload sensitive data. No production authentication/tenant isolation is implemented yet. Report vulnerabilities privately to the repository maintainer; do not open public issues with exploit details. Before production: implement identity, authorization, quotas, logging, encryption, scanning and secret management.
