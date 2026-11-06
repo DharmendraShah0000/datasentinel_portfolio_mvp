@@ -1,2 +1,10 @@
-fastapi==0.115.12\nuvicorn[standard]==0.34.0\npython-multipart==0.0.20\nSQLAlchemy==2.0.38\npydantic==2.10.6\npandas==2.2.3\nnumpy==2.2.2\nscikit-learn==1.6.1\npytest==8.3.4\nhttpx==0.28.1\n
-psycopg[binary]==3.2.4
+﻿fastapi==0.115.12
+uvicorn[standard]==0.34.0
+python-multipart==0.0.20
+SQLAlchemy==2.0.38
+pydantic==2.10.6
+pandas==2.2.3
+numpy==2.2.2
+scikit-learn==1.6.1
+pytest==8.3.4
+httpx==0.28.1

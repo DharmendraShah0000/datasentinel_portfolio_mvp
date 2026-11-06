@@ -1,1 +1,27 @@
-node_modules/\n.next/\n.venv/\nvenv/\n__pycache__/\n*.py[cod]\n.env\n*.db\n.coverage\n.pytest_cache/\n.DS_Store\n
+﻿# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.coverage
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Node.js
+node_modules/
+.next/
+out/
+dist/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# System files
+.DS_Store
+Thumbs.db
